@@ -1,1 +1,1 @@
-# sentiment_analysis
+This sentiment analysis project focuses on Reddit data related to the skincare brand 'The Ordinary,' retrieved via the Reddit API. The analysis is conducted on two dataframes: posts and comments. Sentiment techniques, including TextBlob and WordCloud, were applied to both dataframes to gain insights into user sentiment towards the brand.
